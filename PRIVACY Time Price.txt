@@ -1,0 +1,33 @@
+Privacy Policy for Time Price
+
+Last updated: November 22, 2026
+
+Time Price is a browser extension that shows the approximate amount of working time corresponding to prices on websites, based on an hourly income entered by the user.
+
+Information processed
+
+Time Price stores the following information locally in the browser using Chrome's local extension storage:
+
+- The hourly income, currency, and working hours per day entered by the user.
+- The selected interface language.
+- The hostnames of websites where the user has disabled the extension.
+
+When the extension is enabled and configured, it examines text on accessible web pages to identify prices and displays the calculated working time beside recognized prices. Web page text may contain personal or sensitive information. This processing takes place locally in the browser; the extension does not save the page text or recognized prices to its local settings.
+
+When the extension popup is opened, Time Price reads the current tab's address to determine its hostname and display the on/off control for that site. It does not keep a browsing history, full page URLs, page titles, or visit times.
+
+Use and sharing
+
+The information is used to calculate and display working time, remember settings, and honor the user's site exclusions. The extension does not send this information to the developer or third parties, and does not use analytics or advertising services. The developer does not sell or share this information.
+
+Time Price's use of information complies with the Chrome Web Store User Data Policy, including its Limited Use requirements.
+
+Retention and control
+
+Settings and excluded hostnames remain in local extension storage until the user changes them or removes the extension. Users can change their income, currency, working day, and language in the extension popup, and can re-enable an excluded site there. Removing the extension deletes its local extension storage from the browser.
+
+Changes and contact
+
+This policy may be updated if the extension or its data practices change. The date above indicates the latest revision.
+
+Contact: rocheval.dev@gmail.com
